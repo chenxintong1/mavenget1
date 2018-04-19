@@ -10,5 +10,6 @@ public class Myjava {
     public static void main(String[] args) {
         System.out.println("aaaaa");
         System.out.println("efefefef");
+        System.out.println("ccccccc");
     }
 }
