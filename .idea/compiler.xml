@@ -10,8 +10,5 @@
         <module name="mavenget" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mavent" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
