@@ -8,15 +8,7 @@
  */
 public class Myjava {
     public static void main(String[] args) {
-        System.out.println("aaaaa");
-        System.out.println("efefefef");
-        System.out.println("ccccccc");
-        System.out.println("c");
-        System.out.println("a");
-        System.out.println("e");
-        System.out.println("e");
-        System.out.println("e");
-        System.out.println("e");
+      
         System.out.println("ddddd");
          System.out.println("q");
          System.out.println("ddddd"); System.out.println("ddddd");
