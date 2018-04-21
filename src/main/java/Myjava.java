@@ -17,6 +17,8 @@ public class Myjava {
         System.out.println("e");
         System.out.println("e");
         System.out.println("e");
+        System.out.println("ddddd");
+         System.out.println("q");
          System.out.println("ddddd"); System.out.println("ddddd");
        
     }
